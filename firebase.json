@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "notes-llfm",
+    "public": "build",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
