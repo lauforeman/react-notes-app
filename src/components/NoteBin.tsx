@@ -1,15 +1,10 @@
-import React, { useState } from 'react';
-import NoteForm from './NoteForm';
+import React, { } from 'react';
 import NoteItem from './NoteItem';
 
 export type Note = {
     id: string;
     text: string;
     deleted: boolean;
-}
-
-type Dictionary<T> = {
-    [key: string]: T;
 }
 
 type NoteBinProp = {
