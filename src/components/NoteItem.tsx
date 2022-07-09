@@ -1,4 +1,3 @@
-import { useState } from "react";
 import { AiTwotoneDelete, AiFillEdit } from "react-icons/ai";
 
 type NoteItemProp = {
