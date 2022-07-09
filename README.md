@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Getting Started with Notes App
+
+This project is about a notes app to add, edit, and remove notes [Notes App](https://notes-llfm.web.app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
